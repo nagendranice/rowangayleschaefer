@@ -11,7 +11,7 @@
 
 - 💬 Ask me about: **Online ML communities, interview practice**
 
-- 1️⃣ My first language: **PostGreSQL/MySQL! **
+- 1️⃣ My first language: **PostGreSQL/MySQL!**
 
 - 📄 Know about my experiences: [https://www.rowanschaefer.cargo.site](https://www.rowanschaefer.cargo.site)
 
