@@ -1,15 +1,24 @@
-<h1 align="center">Hi 👋 I'm Rowan!</h1>
+<h2 align="center">Hi, I'm Rowan! :)</h2>
 <h3 align="center">Adobe Scholar and Data Science Fellow at General Assembly</h3>
+
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=rowangayleschaefer.rowangayleschaefer) ***Glad to see you here! :)***
+  
+
+<p>
+<p>
+
+<h4>About me:</h4>
 
 - 🔭 I’m currently working on: [**TikTok scraper/video recommender**](https://github.com/rowangayleschaefer/tiktok_recommender)
 
 - 🌱 I’m currently learning: **Bayesian statistics**
 
-- 👯 I’m looking to collaborate on: **Social impact projects**
-
 - 🤝 I’m looking for help with: **Bayesian statistics. lol.**
 
 - 💬 Ask me about: **Online ML communities, interview practice**
+
+- 👯 I’m looking to collaborate on: **Social impact projects**
 
 - 1️⃣ My first language: **PostGreSQL/MySQL!**
 
