@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on: **Social impact projects**
 
-- 🤝 I’m looking for help with: **Bayesian statistics... lol**
+- 🤝 I’m looking for help with: **Bayesian statistics. lol.**
 
 - 💬 Ask me about: **Online ML communities, interview practice**
 
