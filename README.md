@@ -1,19 +1,21 @@
-<h1 align="center">Hi 👋, I'm Rowan</h1>
+<h1 align="center">Hi 👋 I'm Rowan!</h1>
 <h3 align="center">Adobe Scholar and Data Science Fellow at General Assembly</h3>
 
-- 🔭 I’m currently working on [TikTok scraping/video recommender](https://github.com/rowangayleschaefer/tiktok_recommender)
+- 🔭 I’m currently working on: [TikTok scraper/video recommender](https://github.com/rowangayleschaefer/tiktok_recommender)
 
-- 🌱 I’m currently learning **Bayesian statistics**
+- 🌱 I’m currently learning: **Bayesian statistics**
 
-- 👯 I’m looking to collaborate on **Social impact projects**
+- 👯 I’m looking to collaborate on: **Social impact projects**
 
-- 🤝 I’m looking for help with **Bayesian statistics... lol**
+- 🤝 I’m looking for help with: **Bayesian statistics... lol**
 
-- 💬 Ask me about **Online ML communities, interview practice**
+- 💬 Ask me about: **Online ML communities, interview practice**
 
-- 📄 Know about my experiences [https://www.rowanschaefer.cargo.site](https://www.rowanschaefer.cargo.site)
+- 1️⃣ My first language: **PostGre SQL! (Or Visual Basic, ~10 years ago)**
 
-- ⚡ Fun fact **I trained my cat to do tricks!**
+- 📄 Know about my experiences: [https://www.rowanschaefer.cargo.site](https://www.rowanschaefer.cargo.site)
+
+- ⚡ Fun fact: **I trained my cat to do tricks!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
