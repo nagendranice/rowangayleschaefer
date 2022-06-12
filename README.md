@@ -8,7 +8,7 @@
 <p>
 <p>
 
-<h4>About me:</h4>
+<h3>About me:</h3>
 
 - 🔭 I’m currently working on: [**TikTok scraper/video recommender**](https://github.com/rowangayleschaefer/tiktok_recommender)
 
