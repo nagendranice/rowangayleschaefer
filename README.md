@@ -13,7 +13,7 @@
 
 - 1️⃣ My first language: **PostGreSQL/MySQL!**
 
-- 📄 Know about my experiences: [https://www.rowanschaefer.cargo.site](https://www.rowanschaefer.cargo.site)
+- 📄 Know about my experiences: [**rowanschaefer.cargo.site**](https://www.rowanschaefer.cargo.site)
 
 - ⚡ Fun fact: **I trained my cat to do tricks!**
 
