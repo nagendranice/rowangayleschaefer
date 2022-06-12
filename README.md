@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Rowan!</h1>
 <h3 align="center">Adobe Scholar and Data Science Fellow at General Assembly</h3>
 
-- 🔭 I’m currently working on: [TikTok scraper/video recommender](https://github.com/rowangayleschaefer/tiktok_recommender)
+- 🔭 I’m currently working on: [**TikTok scraper/video recommender**](https://github.com/rowangayleschaefer/tiktok_recommender)
 
 - 🌱 I’m currently learning: **Bayesian statistics**
 
