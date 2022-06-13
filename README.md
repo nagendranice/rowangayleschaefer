@@ -36,7 +36,7 @@
 <br /><p>
   
 
-<h3 align="left">👋 Latest blog posts</h3>
+<h3 align="left">✍️ Latest blog posts</h3>
 <p align="left">
   
 * [**Networking Lessons from a Data Conference**](https://www.linkedin.com/pulse/networking-lessons-from-data-conference-rowan-gayle-schaefer/)
@@ -49,7 +49,7 @@
   
 <br /><p>
   
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">💻 Languages and Tools:</h3>
 <p align="left"> 
   
 * PostGreSQL, MySQL, and BigQuery
