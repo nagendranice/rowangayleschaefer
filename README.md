@@ -39,7 +39,7 @@
   
 * [**Networking Lessons from a Data Conference]([https://www.google.com](https://www.linkedin.com/pulse/networking-lessons-from-data-conference-rowan-gayle-schaefer/))
   
-* [***Hex: Collaborative Data Platform Feels Like Jupyter, Tableau, Slack, and Google Docs had a Baby](https://www.linkedin.com/pulse/hex-collaborative-data-platform-feels-like-jupyter-tableau-schaefer/?trackingId=lnaUhN5XSJOs3HZjnbjsog%3D%3D)
+* [***Hex: Collaborative Data Platform Feels Like Jupyter, Tableau, Slack, and Google Docs had a Baby**](https://www.linkedin.com/pulse/hex-collaborative-data-platform-feels-like-jupyter-tableau-schaefer/?trackingId=lnaUhN5XSJOs3HZjnbjsog%3D%3D)
   
 * [**Introduction: General Assembly Data Science Immersive, Week by Week**]([https://www.google.com](https://medium.com/@rowangayleschaefer/introduction-general-assembly-data-science-immersive-week-by-week-5f38a23ae107))
   
