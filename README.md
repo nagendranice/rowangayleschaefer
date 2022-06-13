@@ -23,7 +23,7 @@
 
 📄   Learn about me: [**rowanschaefer.com**](https://www.rowanschaefer.cargo.site)
   
-🔭   I’m currently working on: [**TikTok scraper/video recommender**](https://github.com/rowangayleschaefer/tiktok_recommender)
+🔭   I’m currently working on: [**TikTok scraper/recommender**](https://github.com/rowangayleschaefer/tiktok_recommender) & [**interactive learning blog**](https://www.comingsoon.com)
 
 🌱   I’m currently learning: **Bayesian statistics**
 
