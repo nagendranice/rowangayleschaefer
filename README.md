@@ -63,11 +63,12 @@
   
 <h3 align="left">👋 Connect with me!</h3>
 <p align="left">
-<a href="https://twitter.com/rowan_________" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rowan_________" height="20" width="30" /></a>  Twitter: <a href='https://twitter.com/rowan_________'><b>rowan_________</a></b> (that's 9 underscores)<br />
+<a href="https://twitter.com/rowan_________" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rowan_________" height="20" width="30" /></a>  Twitter: <a href='https://twitter.com/rowan_________'><b>@rowan_________</a></b> (that's 9 underscores)<br />
   
-<a href="https://linkedin.com/in/rowanschaefer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rowanschaefer" height="20" width="30" /></a>  LinkedIn: <a href="https://www.linkedin/comin/rowanschaefer"><b>rowanschaefer</b></a><br />
+<a href="https://linkedin.com/in/rowanschaefer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rowanschaefer" height="20" width="30" /></a>  LinkedIn: <a href="https://www.linkedin/comin/rowanschaefer"><b>@rowanschaefer</b></a><br />
   
 <a href="https://medium.com/@rowangayleschaefer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rowangayleschaefer" height="20" width="30" /></a>  medium: <a href="https://medium.com/@rowangayleschaefer"><b>@rowangayleschaefer </b></a></a><br />
-</p><br />
+
+<a href="https://discord.com"><img src = "https://uploads-ssl.webflow.com/60e73a0bcef2f8e2b9cbf8af/60f9f7c07ae198882c23e1c6_Transparent_Discord_Logo_PNG_Square_2021__Pnggrid.png" height="20" width="20"></a>   Discord: Reach out for an invite!
 
 
