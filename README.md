@@ -67,7 +67,7 @@
   
 <a href="https://linkedin.com/in/rowanschaefer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rowanschaefer" height="20" width="30" /></a>  LinkedIn: <a href="https://www.linkedin/comin/rowanschaefer"><b>rowanschaefer</b></a><br />
   
-<a href="https://medium.com/@rowangayleschaefer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rowangayleschaefer" height="20" width="30" /></a>  medium: <a href="https://medium.com/@rowangayleschaefer"><b>@rowangayleschaefer** </b></a></a><br />
+<a href="https://medium.com/@rowangayleschaefer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rowangayleschaefer" height="20" width="30" /></a>  medium: <a href="https://medium.com/@rowangayleschaefer"><b>@rowangayleschaefer </b></a></a><br />
 </p><br />
 
 
