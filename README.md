@@ -63,7 +63,7 @@
   
 <h3 align="left">👋 Connect with me!</h3>
 <p align="left">
-<a href="https://twitter.com/rowan_________" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rowan_________" height="20" width="30" /></a>  Twitter: <a href='https://twitter.com/rowan_________'><b>rowan_________</a></b> <br />
+<a href="https://twitter.com/rowan_________" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rowan_________" height="20" width="30" /></a>  Twitter: <a href='https://twitter.com/rowan_________'><b>rowan_________</a></b> (that's 9 underscores)<br />
   
 <a href="https://linkedin.com/in/rowanschaefer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rowanschaefer" height="20" width="30" /></a>  LinkedIn: <a href="https://www.linkedin/comin/rowanschaefer"><b>rowanschaefer</b></a><br />
   
