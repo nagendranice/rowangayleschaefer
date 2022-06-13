@@ -39,8 +39,6 @@
   
 * [**Hex: Collaborative Data Platform Feels Like Jupyter, Tableau, Slack, and Google Docs had a Baby**](https://www.linkedin.com/pulse/hex-collaborative-data-platform-feels-like-jupyter-tableau-schaefer/?trackingId=lnaUhN5XSJOs3HZjnbjsog%3D%3D)
   
-* [**Introduction: General Assembly Data Science Immersive, Week by Week**](https://medium.com/@rowangayleschaefer/introduction-general-assembly-data-science-immersive-week-by-week-5f38a23ae107)
-  
 * [**Weeks 0-1: General Assembly Data Science Immersive, Week by Week**](https://medium.com/@rowangayleschaefer/weeks-0-1-general-assembly-data-science-immersive-week-by-week-a31620a8a3fe)
   
 <br /><p>
