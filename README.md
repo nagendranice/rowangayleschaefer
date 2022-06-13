@@ -21,7 +21,7 @@
 
 <h3>About me:</h3>
 
-📄   Learn about me: [**rowanschaefer.cargo.site**](https://www.rowanschaefer.cargo.site)
+📄   Learn about me: [**rowanschaefer.com**](https://www.rowanschaefer.cargo.site)
   
 🔭   I’m currently working on: [**TikTok scraper/video recommender**](https://github.com/rowangayleschaefer/tiktok_recommender)
 
