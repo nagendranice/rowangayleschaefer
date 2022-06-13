@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rowanschaefer)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/rowan_________)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-222222?style=flat-square&logo=Github&logoColor=white)](https://www.github.com/rowangayleschaefer)
-[![Instagram Badge](https://img.shields.io/badge/-Medium-e4405f?style=flat-square&logo=Mediumm&logoColor=white)](https://instagram.com/iampavangandhi/)
+[![Instagram Badge](https://img.shields.io/badge/-Medium-e4405f?style=flat-square&logo=Mediumm&logoColor=white)](https://medium.com/@rowangayleschaefer)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.rowanschaefer.cargo.site)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=rowangayleschaefer.rowangayleschaefer) 
 
@@ -61,11 +61,11 @@
   
 <h3 align="left">👋 Connect with me!</h3>
 <p align="left">
-<a href="https://twitter.com/rowan_________" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rowan_________" height="20" width="30" /></a>  Twitter: <b>rowan_________</b> <br />
+<a href="https://twitter.com/rowan_________" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rowan_________" height="20" width="30" /></a>  Twitter: <a href='https://twitter.com/rowan_________'><b>rowan_________</a></b> <br />
   
-<a href="https://linkedin.com/in/rowanschaefer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rowanschaefer" height="20" width="30" /></a>  LinkedIn: **rowanschaefer** <br />
+<a href="https://linkedin.com/in/rowanschaefer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rowanschaefer" height="20" width="30" /></a>  LinkedIn: <a href="https://www.linkedin/comin/rowanschaefer"><b>rowanschaefer</b></a><br />
   
-<a href="https://medium.com/@rowangayleschaefer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rowangayleschaefer" height="20" width="30" /></a>  medium: **@rowangayleschaefer** <br />
+<a href="https://medium.com/@rowangayleschaefer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rowangayleschaefer" height="20" width="30" /></a>  medium: <a href="https://medium.com/@rowangayleschaefer"><b>@rowangayleschaefer** </b></a></a><br />
 </p><br />
 
 
