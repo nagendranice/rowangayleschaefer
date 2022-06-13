@@ -19,17 +19,17 @@
 
 <h3>About me:</h3>
 
-📄 Learn about me: [**rowanschaefer.cargo.site**](https://www.rowanschaefer.cargo.site)
+📄   Learn about me: [**rowanschaefer.cargo.site**](https://www.rowanschaefer.cargo.site)
   
-🔭 I’m currently working on: [**TikTok scraper/video recommender**](https://github.com/rowangayleschaefer/tiktok_recommender)
+🔭   I’m currently working on: [**TikTok scraper/video recommender**](https://github.com/rowangayleschaefer/tiktok_recommender)
 
-🌱 I’m currently learning: **Bayesian statistics**
+🌱   I’m currently learning: **Bayesian statistics**
 
-💬 Ask me about: **Online ML communities, interview practice**
+💬   Ask me about: **Online ML communities, interview practice**
 
-👯 I’m looking to collaborate on: **Social impact projects**
+👯   I’m looking to collaborate on: **Social impact projects**
 
-1️⃣ My first language: **PostGreSQL/MySQL**
+1️⃣   My first language: **PostGreSQL/MySQL**
 
 <br /><p>
   
@@ -61,11 +61,11 @@
   
 <h3 align="left">👋 Connect with me!</h3>
 <p align="left">
-<a href="https://twitter.com/rowan_________" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rowan_________" height="20" width="30" /></a> Twitter: <b>rowan_________</b> <br />
+<a href="https://twitter.com/rowan_________" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rowan_________" height="20" width="30" /></a>  Twitter: <b>rowan_________</b> <br />
   
-<a href="https://linkedin.com/in/rowanschaefer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rowanschaefer" height="20" width="30" /></a> LinkedIn: **rowanschaefer** <br />
+<a href="https://linkedin.com/in/rowanschaefer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rowanschaefer" height="20" width="30" /></a>  LinkedIn: **rowanschaefer** <br />
   
-<a href="https://medium.com/@rowangayleschaefer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rowangayleschaefer" height="20" width="30" /></a> medium: **@rowangayleschaefer** <br />
+<a href="https://medium.com/@rowangayleschaefer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rowangayleschaefer" height="20" width="30" /></a>  medium: **@rowangayleschaefer** <br />
 </p><br />
 
 
