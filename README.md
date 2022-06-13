@@ -8,10 +8,12 @@
 [![Instagram Badge](https://img.shields.io/badge/-Medium-e4405f?style=flat-square&logo=Mediumm&logoColor=white)](https://medium.com/@rowangayleschaefer)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.rowanschaefer.cargo.site)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=rowangayleschaefer.rowangayleschaefer) 
-
-
+  
 <h2>Hi, I'm Rowan! :)</h2>
-  <h4><i>Adobe Scholar and Data Science Fellow at General Assembly</i></h3>
+<h4><i>Adobe Scholar and Data Science Fellow at General Assembly</i></h3>
+<img src="https://github.com/rowangayleschaefer/rowangayleschaefer/blob/main/imgs/Screenshot%202022-06-03%20at%208.31.37%20PM.png?raw=true"><br />
+
+
 
   </div>
 
