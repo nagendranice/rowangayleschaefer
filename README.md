@@ -11,7 +11,7 @@
   
 <h2>Hi, I'm Rowan! :)</h2>
 <h4><i>Adobe Scholar and Data Science Fellow at General Assembly</i></h3>
-<img src="https://github.com/rowangayleschaefer/rowangayleschaefer/blob/main/imgs/Screenshot%202022-06-03%20at%208.31.37%20PM.png?raw=true"><br />
+<img src="https://github.com/rowangayleschaefer/rowangayleschaefer/blob/main/imgs/Screenshot%202022-06-12%20at%208.45.45%20PM.png?raw=true"><br />
 
 
 
