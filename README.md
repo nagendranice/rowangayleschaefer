@@ -69,6 +69,6 @@
   
 <a href="https://medium.com/@rowangayleschaefer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rowangayleschaefer" height="20" width="30" /></a>  medium: <a href="https://medium.com/@rowangayleschaefer"><b>@rowangayleschaefer </b></a></a><br />
 
-<a href="https://discord.com"><img src = "https://uploads-ssl.webflow.com/60e73a0bcef2f8e2b9cbf8af/60f9f7c07ae198882c23e1c6_Transparent_Discord_Logo_PNG_Square_2021__Pnggrid.png" height="20" width="20"></a>   Discord: Reach out for an invite!
+   <a href="https://discord.com"><img src = "https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo-700x394.png" height="18" width="30"></a>   Discord: Reach out for an invite!
 
 
