@@ -27,7 +27,7 @@
 
 🌱   I’m currently learning: **Bayesian statistics**
 
-💬   Ask me about: **Online ML communities, interview practice, prohect collabs**
+💬   Ask me about: **Online ML communities, interview practice, project collabs**
 
 1️⃣   My first language: **PostGreSQL/MySQL**
 
