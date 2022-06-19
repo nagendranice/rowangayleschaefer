@@ -25,7 +25,7 @@
   
 🌱   I’m currently working on: [**TikTok scraper/recommender**](https://github.com/rowangayleschaefer/tiktok_recommender)
 
-💬   Ask me about: **Online ML communities, interview practice, project collabs**
+
 
 1️⃣   My first language: **PostGreSQL/MySQL**
   
@@ -49,10 +49,10 @@
 <p align="left"> 
   
 * PostGreSQL, MySQL, and BigQuery
-* Python (SciKit-Learn, Pandas, and Tensorflow)
-* R (Tidyverse)
+* Python (SciKit-Learn, Pandas, and Tensorflow, among others)
+
 * Tableau and viz in python
-* Adobe Photoshop and Illustrator
+* R (Tidyverse, ggplot)
   
 <br /><p>
   
@@ -64,8 +64,8 @@
   
 <a href="https://medium.com/@rowangayleschaefer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rowangayleschaefer" height="20" width="30" /></a>  medium: <a href="https://medium.com/@rowangayleschaefer"><b>@rowangayleschaefer </b></a></a><br />
 
-<a href="https://discord.com"><img src = "https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo-700x394.png" height="18" width="30"></a>   Discord: Reach out for an invite!
-  
+
+ 
    
 
 
