@@ -28,6 +28,8 @@
 💬   Ask me about: **Online ML communities, interview practice, project collabs**
 
 1️⃣   My first language: **PostGreSQL/MySQL**
+  
+<a href="https://github.com/references-and-resources" target="blank"><img align="center" src="https://github.com/rowangayleschaefer/rowangayleschaefer/blob/main/imgs/Screenshot%202022-06-18%20at%2011.31.38%20PM.png?raw=true" alt="@rowangayleschaefer" height="25" width="25" /></a>  I keep my resource repos in a seperate org, you can <a href="https://github.com/references-and-resources"><b>follow it if you want </b></a></a><br />
 
 <br /><p>
   
@@ -49,8 +51,7 @@
 * PostGreSQL, MySQL, and BigQuery
 * Python (SciKit-Learn, Pandas, and Tensorflow)
 * R (Tidyverse)
-* HTML and CSS
-* AWS
+* Tableau and viz in python
 * Adobe Photoshop and Illustrator
   
 <br /><p>
@@ -63,6 +64,8 @@
   
 <a href="https://medium.com/@rowangayleschaefer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rowangayleschaefer" height="20" width="30" /></a>  medium: <a href="https://medium.com/@rowangayleschaefer"><b>@rowangayleschaefer </b></a></a><br />
 
-   <a href="https://discord.com"><img src = "https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo-700x394.png" height="18" width="30"></a>   Discord: Reach out for an invite!
+<a href="https://discord.com"><img src = "https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo-700x394.png" height="18" width="30"></a>   Discord: Reach out for an invite!
+  
+   
 
 
