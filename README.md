@@ -22,7 +22,7 @@
 <h3>About me:</h3>
 
 
-🌱   I’m currently working on: [**TikTok scraper/recommender**](https://github.com/rowangayleschaefer/tiktok_recommender) and a [blog](https://www.stats-sos.com)
+🌱   I’m currently working on: [**TikTok scraper/recommender**](https://github.com/rowangayleschaefer/tiktok_recommender) and a [**blog**](https://www.stats-sos.com)
 
 
 
