@@ -51,8 +51,21 @@
 * PostGreSQL, MySQL, and BigQuery
 * Python (SciKit-Learn, Pandas, and Tensorflow, among others)
 
-* Tableau and viz in python
+* Tableau and viz in python 
 * R (Tidyverse, ggplot)
+  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-07405E?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+<img src="https://img.shields.io/badge/Tableau-F2C811?style=for-the-badge&logo=Tableau&logoColor=white">
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+<img src="https://img.shields.io/badge/bigquery-F37626?style=for-the-badge&logo=bigquery&logoColor=white">
+<img src="https://img.shields.io/badge/git-111111?style=for-the-badge&logo=github&logoColor=white">
+  
   
 <br /><p>
   
