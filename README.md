@@ -52,12 +52,6 @@
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="left"> 
   
-* PostGreSQL, MySQL, and BigQuery
-* Python (SciKit-Learn, Pandas, and Tensorflow, among others)
-
-* Tableau and viz in python 
-* R (Tidyverse, ggplot)
-  
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
