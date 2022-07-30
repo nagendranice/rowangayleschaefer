@@ -22,7 +22,7 @@
 <h3>About me:</h3>
 
 
-🌱   I’m currently working on: GitHub Actions, GitLab, GitPod, jupyterbooks 
+🌱   I’m currently working on: jupyterbooks, GitHub Actions, GitLab, GitPod
 
 
 
