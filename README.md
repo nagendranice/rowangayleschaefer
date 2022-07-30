@@ -10,7 +10,7 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=rowangayleschaefer.rowangayleschaefer) 
   
 <h2>Hi, I'm Rowan! 👋</h2>
-<h4><i>Adobe Scholar and Data Science Fellow at General Assembly</i></h3>
+<h4><i>Adobe Scholar and DS Teaching Assistant at General Assembly</i></h3>
 <img src="https://github.com/rowangayleschaefer/rowangayleschaefer/blob/main/imgs/Screenshot%202022-06-12%20at%208.45.45%20PM.png?raw=true" height=65><br />
 
 
