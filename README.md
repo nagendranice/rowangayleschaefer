@@ -43,13 +43,14 @@
 <h3 align="left">✍️ Latest blog posts</h3>
 <p align="left">
   
-* [**Networking Lessons from a Data Conference**](https://www.linkedin.com/pulse/networking-lessons-from-data-conference-rowan-gayle-schaefer/)
+<br />
   
-* [**Hex: Collaborative Data Platform Feels Like Jupyter, Tableau, Slack, and Google Docs had a Baby**](https://www.linkedin.com/pulse/hex-collaborative-data-platform-feels-like-jupyter-tableau-schaefer/?trackingId=lnaUhN5XSJOs3HZjnbjsog%3D%3D)
-  
-* [**Weeks 0-1: General Assembly Data Science Immersive, Week by Week**](https://medium.com/@rowangayleschaefer/weeks-0-1-general-assembly-data-science-immersive-week-by-week-a31620a8a3fe)
-  
-<br /><p>
+  | <a href='https://cutt.ly/docker-5-resources'><img src='https://miro.medium.com/max/1400/1*xkZNQ-DoODH1Me2RSzL0Ng.png' width=500 height=240><br />Top 5 Resources to Help You Actually Understand Docker </a> <br /><br />| <a href='https://cutt.ly/subplots'> <img src='https://miro.medium.com/max/1400/1*xJGz3ucXFMmS4gov0617Tg.png' width=500 height=240><br />Understanding Subplots in Matplotlib - in 8 Minutes </a><br /><br /> | 
+  |:-:|:-:|
+  | <a href='https://cutt.ly/subplots2'> <img src='https://miro.medium.com/max/1400/1*xJGz3ucXFMmS4gov0617Tg.png' width=500 height=240><br /><b>Intro to OO Matplotlib With .add_subplot and .subplots </b></a><br /><br />  | <a href='https://cutt.ly/7-networking-lessons'><img src='https://media-exp1.licdn.com/dms/image/D4D12AQEvMYhyooCtiQ/article-inline_image-shrink_1500_2232/0/1660684484287?e=1666224000&v=beta&t=ILJHHsTNRZ41tLUNn6RbuRrtMHR4owvIy3ggzCTlvT8' width=450 height=240><br/><b>7 Networking Lessons from a Data Conference</b></a> <br/><br/>|
+   
+<br />
+<br />
   
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="left"> 
