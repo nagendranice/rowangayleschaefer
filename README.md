@@ -32,6 +32,8 @@
 
 📄   Learn about me: [**rowanschaefer.com**](https://www.rowanschaefer.cargo.site)
 
+👀   If I followed you and starred your repo you should <a href='www.linkedin.com/in/rowanschaefer'>add me on LI</a> or <a href='https://twitter.com/rowan_________'>Twitter</a>
+
 <br /><p>
 
 
