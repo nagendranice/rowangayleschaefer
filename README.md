@@ -43,9 +43,9 @@
 <h3 align="left">✍️ Latest blog posts</h3>
 <p align="left">
   
-  | <a href='https://cutt.ly/docker-5-resources'><img src='https://miro.medium.com/max/1400/1*xkZNQ-DoODH1Me2RSzL0Ng.png' width=500 height=210><br />Top 5 Resources to Help You Actually Understand Docker </a> <br /><br />| <a href='https://cutt.ly/subplots2'> <img src='https://miro.medium.com/max/1400/1*xJGz3ucXFMmS4gov0617Tg.png' width=500 height=210><br /><b>Intro to OO Matplotlib with .add_subplot and .subplots </b></a><br /><br /> | 
+  | <a href='https://cutt.ly/docker-5-resources'><img src='https://miro.medium.com/max/1400/1*xkZNQ-DoODH1Me2RSzL0Ng.png' width=500 height=200><br />Top 5 Resources to Help You Actually Understand Docker </a> <br /><br />| <a href='https://cutt.ly/subplots2'> <img src='https://miro.medium.com/max/1400/1*xJGz3ucXFMmS4gov0617Tg.png' width=500 height=200><br /><b>Intro to OO Matplotlib with .add_subplot and .subplots </b></a><br /><br /> | 
   |:-:|:-:|
-  | <a href='https://cutt.ly/subplots'> <img src='https://miro.medium.com/max/1400/1*xJGz3ucXFMmS4gov0617Tg.png' width=500 height=210><br /><b>Everything You Need to Know About Matplotlib Subplots </b></a><br /><br /> | <a href='https://cutt.ly/7-networking-lessons'><img src='https://media-exp1.licdn.com/dms/image/D4D12AQEvMYhyooCtiQ/article-inline_image-shrink_1500_2232/0/1660684484287?e=1666224000&v=beta&t=ILJHHsTNRZ41tLUNn6RbuRrtMHR4owvIy3ggzCTlvT8' width=450 height=210><br/><b>7 Networking Lessons from a Data Conference</b></a> <br/><br/>|
+  | <a href='https://cutt.ly/subplots'> <img src='https://miro.medium.com/max/1400/1*xJGz3ucXFMmS4gov0617Tg.png' width=500 height=200><br /><b>Everything You Need to Know About Matplotlib Subplots </b></a><br /><br /> | <a href='https://cutt.ly/7-networking-lessons'><img src='https://media-exp1.licdn.com/dms/image/D4D12AQEvMYhyooCtiQ/article-inline_image-shrink_1500_2232/0/1660684484287?e=1666224000&v=beta&t=ILJHHsTNRZ41tLUNn6RbuRrtMHR4owvIy3ggzCTlvT8' width=450 height=200><br/><b>7 Networking Lessons from a Data Conference</b></a> <br/><br/>|
    
 <br />
 <br />
