@@ -22,7 +22,7 @@
 <h3>About me:</h3>
 
 
-🌱   I’m currently working on: jupyterbooks, GitHub Actions, K8s
+🌱   I’m currently working on: too many
 
 
 
