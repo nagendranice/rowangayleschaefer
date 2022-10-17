@@ -26,7 +26,7 @@
 
 
 
-1️⃣   My first language: **PostGreSQL/MySQL**
+1️⃣   My first language: SQL!
   
 <a href="https://github.com/refs-and-resources" target="blank"><img align="center" src="https://github.com/rowangayleschaefer/rowangayleschaefer/blob/main/imgs/Screenshot%202022-06-18%20at%2011.31.38%20PM.png?raw=true" alt="@rowangayleschaefer" height="25" width="25" /></a>  I keep my resource repos in separate orgs, you can <a href="https://github.com/refs-and-resources"><b>follow them if you want </b></a></a><br />
 
